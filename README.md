@@ -8,6 +8,8 @@
 | [Prompt Engineering for Instruction-Tuned LLM: Iterative Prompt Development](https://medium.com/towards-artificial-intelligence/prompt-engineering-best-practices-iterative-prompt-development-22759b309919?sk=04d80ebff71fa30e0461634b18632aec) | [Kaggle Notebook](https://www.kaggle.com/code/youssef19/iterative-prompt-development) | [Arabic Video]() |
 | [Prompt Engineering for Instruction-Tuned LLM: Text Summarization]() | [Kaggle Notebook](https://www.kaggle.com/youssef19/text-summaization-information-retrieval) | [Arabic Video]() |
 
-* [Prompt Engineering for Instruction-Tuned LLM: Textual Inference & Sentiment Analysis](https://open.substack.com/pub/youssefh/p/prompt-engineering-for-instruction-bca?r=1sqbmi&utm_campaign=post&utm_medium=web) |[Kaggle Notebook](https://www.kaggle.com/code/youssef19/textual-inference-sentiment-analysis/notebook) | [Arabic Video]()
-* [Prompt Engineering for Instruction-Tuned LLM: Text Transforming & Translation](https://open.substack.com/pub/youssefh/p/prompt-engineering-for-instruction-84d?r=1sqbmi&utm_campaign=post&utm_medium=web) |[Kaggle Notebook]() | [Arabic Video]()
-* [Prompt Engineering Best Practices: Chain of Thought Reasoning](https://open.substack.com/pub/youssefh/p/prompt-engineering-best-practices-d9b?r=1sqbmi&utm_campaign=post&utm_medium=web) |[Kaggle Notebook]() | [Arabic Video]()
+| [Prompt Engineering for Instruction-Tuned LLM: Textual Inference & Sentiment Analysis](https://open.substack.com/pub/youssefh/p/prompt-engineering-for-instruction-bca?r=1sqbmi&utm_campaign=post&utm_medium=web) |[Kaggle Notebook](https://www.kaggle.com/code/youssef19/textual-inference-sentiment-analysis/notebook) | [Arabic Video]() |
+  
+| [Prompt Engineering for Instruction-Tuned LLM: Text Transforming & Translation](https://open.substack.com/pub/youssefh/p/prompt-engineering-for-instruction-84d?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Kaggle Notebook]() | [Arabic Video]() |
+
+| [Prompt Engineering Best Practices: Chain of Thought Reasoning](https://open.substack.com/pub/youssefh/p/prompt-engineering-best-practices-d9b?r=1sqbmi&utm_campaign=post&utm_medium=web) |[Kaggle Notebook]() | [Arabic Video]() |
