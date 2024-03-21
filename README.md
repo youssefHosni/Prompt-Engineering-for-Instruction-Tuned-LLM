@@ -1,4 +1,4 @@
-# Prompt-Engineering-for-Instruction-Tuned-LLM
+# Prompt-Engineering-Best-Practices
 
 
 | Article | Kaggle Notebook | Arabic Youtube |
