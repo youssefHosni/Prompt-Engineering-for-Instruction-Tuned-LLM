@@ -1,5 +1,5 @@
 # Prompt-Engineering-Best-Practices
-
+Hands-on tutorials for prompt engineering of instruction tuned LLMs 
 | Article | Kaggle Notebook | Arabic Youtube Video |
 |-----------------|-----------------|-----------------|
 | [A Comprehensive Introduction to Instruction Fine-Tuning for LLMs]() | -   |- |
