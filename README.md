@@ -10,8 +10,8 @@
 | [Prompt Engineering for Instruction-Tuned LLM: Text Transforming & Translation](https://open.substack.com/pub/youssefh/p/prompt-engineering-for-instruction-84d?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Kaggle Notebook]() | [Arabic Video]() |
 | [Prompt Engineering Best Practices: Chain of Thought Reasoning](https://open.substack.com/pub/youssefh/p/prompt-engineering-best-practices-d9b?r=1sqbmi&utm_campaign=post&utm_medium=web) |[Kaggle Notebook]() | [Arabic Video]() |
 |[Prompt Engineering Best Practices: LLM Output Validation](https://medium.com/towards-artificial-intelligence/prompt-engineering-best-practices-llm-output-validation-evaluation-61f8cc508b52?sk=5b98dfc91b6febfbb61ee4c48bf57bec)|[Kaggle Notebook]()|[Arabic Video]() |
-|[Prompt Engineering Best Practices: Building an End-to-End Customer Service System](https://medium.com/towards-artificial-intelligence/prompt-engineering-best-practices-building-an-end-to-end-customer-service-system-d79bb340c2bf?sk=2806206ef8ebca922a626b0778df8fae)|[Kaggle Notebook]()|[Arabic Video]() |
-|[Testing Prompt Engineering-Based LLM Applications]()|[Kaggle Notebook]()|[Arabic Video]() |
+|[Prompt Engineering Best Practices: Building an End-to-End Customer Service System](https://medium.com/towards-artificial-intelligence/prompt-engineering-best-practices-building-an-end-to-end-customer-service-system-d79bb340c2bf?sk=2806206ef8ebca922a626b0778df8fae)|[Kaggle Notebook](https://www.kaggle.com/code/youssef19/end-to-end-customer-service-system-with-prompt)|[Arabic Video]() |
+|[Testing Prompt Engineering-Based LLM Applications]()|[Kaggle Notebook](https://www.kaggle.com/code/youssef19/testing-prompt-engineering-based-llm-applications)|[Arabic Video]() |
 
 
 
