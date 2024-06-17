@@ -3,7 +3,7 @@ Hands-on tutorials for prompt engineering of instruction-tuned LLMs
 | Article | Kaggle Notebook | Arabic Youtube Video |
 |-----------------|-----------------|-----------------|
 | [A Comprehensive Introduction to Instruction Fine-Tuning for LLMs]() | -   |- |
-| [A Comprehensive Introduction to Instruction Fine-Tuning for LLMs]() | -   |- |
+| [Single Vs Multi-Task LLM Instruction Fine-Tuning]() | -   |- |
 | [Overview of Scaling Instruction-Tuned Large Language Models (LLMs)]() | -   |- |
 | [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 1]](https://medium.com/towards-artificial-intelligence/prompt-engineering-best-practices-for-instruction-tuned-llm-part-1-e77493f7161d?sk=fd4b4208c09323ec9895aaa3d5f796ca) | [Kaggle Notebook](https://www.kaggle.com/code/youssef19/prompt-engineering-best-practices)    |[Arabic Video](https://youtu.be/MWTo340tR7w?si=omHiKIF9-lPrjt7T)   |
 | [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 2]](https://medium.com/towards-artificial-intelligence/prompt-engineering-best-practices-for-instruction-tuned-llm-part-2-33bb2a529a50?sk=68400826bcee089c3ba53d8bdfed7ce7)   | [Kaggle Notebook](https://www.kaggle.com/code/youssef19/prompt-engineering-best-practices) | [Arabic Video](https://youtu.be/MWTo340tR7w?si=omHiKIF9-lPrjt7T)    |
