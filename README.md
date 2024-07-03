@@ -1,4 +1,3 @@
-![image](https://github.com/youssefHosni/Prompt-Engineering-for-Instruction-Tuned-LLM/assets/72076328/f3644f86-dfad-45e5-bb38-91730efac7ae)# Prompt-Engineering-Best-Practices
 Hands-on tutorials for prompt engineering of instruction-tuned LLMs 
 | Article | Kaggle Notebook | Arabic Youtube Video |
 |-----------------|-----------------|-----------------|
