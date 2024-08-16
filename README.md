@@ -10,12 +10,14 @@ Hands-on tutorials for prompt engineering of instruction-tuned LLMs
 
 
 ## Introduction to Instruction-Tuned LLMs ##
-| Article | Kaggle Notebook | Arabic Youtube Video |
-|-----------------|-----------------|-----------------|
-| [A Comprehensive Introduction to Instruction Fine-Tuning for LLMs](https://medium.com/towards-artificial-intelligence/a-comprehensive-introduction-to-instruction-fine-tuning-for-llms-c9d66e4bae08?sk=a8b52bbbcec3f0079a6db158434269a2) | -   |- |
-| [Single Vs Multi-Task LLM Instruction Fine-Tuning](https://medium.com/towards-artificial-intelligence/single-vs-multi-task-llm-instruction-fine-tuning-2d75c4d235c7?sk=63e298c086015ac00ac37ac1c9bbc2a5) | -   |- |
-| [Overview of Scaling Instruction-Tuned Large Language Models (LLMs)](https://medium.com/gitconnected/overview-of-scaling-instruction-tuned-large-language-models-llms-9a7c237efe15?sk=415cd60fb2fb411fce813265387b5a37) | -   |- |
-| [How Can We Evaluate Instruction Tuned LLM?]() | -   |- |
+|Topic |Blog|Kaggle Notebook| Youtube Video |
+|-----|--------|----------|----------|
+|A Comprehensive Introduction to Instruction Fine-Tuning for LLMs |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-artificial-intelligence/a-comprehensive-introduction-to-instruction-fine-tuning-for-llms-c9d66e4bae08?sk=a8b52bbbcec3f0079a6db158434269a2) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Single Vs Multi-Task LLM Instruction Fine-Tuning |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-artificial-intelligence/single-vs-multi-task-llm-instruction-fine-tuning-2d75c4d235c7?sk=63e298c086015ac00ac37ac1c9bbc2a5) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Overview of Scaling Instruction-Tuned Large Language Models (LLMs) |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/gitconnected/overview-of-scaling-instruction-tuned-large-language-models-llms-9a7c237efe15?sk=415cd60fb2fb411fce813265387b5a37) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|How Can We Evaluate Instruction Tuned LLM? |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+
+
 
 
 ## Prompt Engineering Guide ##
